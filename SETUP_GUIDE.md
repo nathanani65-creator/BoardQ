@@ -155,7 +155,7 @@ npm run dev
 
 เข้าดูที่:
 - Frontend → http://localhost:5173
-- Backend  → http://localhost:5000
+- Backend  → https://boardq.onrender.com
 
 ---
 
